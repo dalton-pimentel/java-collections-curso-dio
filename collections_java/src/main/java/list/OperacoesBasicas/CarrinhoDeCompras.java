@@ -42,6 +42,7 @@ private List<Item> itemList;
 		System.out.println(itemList);
 	}
 	
+	// testando o código
 	public static void main(String[] args) {
 		
 		CarrinhoDeCompras compras = new CarrinhoDeCompras();
